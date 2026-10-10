@@ -1,4 +1,4 @@
-# Qwetoo — clickable demo
+# Kwaytoo — clickable demo
 
 Our home, wherever we are. See what home needs, who's paying, and what's coming in the suitcase.
 English and Kiswahili.
